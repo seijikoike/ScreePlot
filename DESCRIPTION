@@ -1,0 +1,7 @@
+Package: scree
+Title: Scree Plot
+Version: 0.1.0
+Authors@R: person("Seiji", "Koike", email = "seijikoike@gmail.com", role = c("aut", "cre"))
+Description: Creates a scree plot with a princomp object with ggplot.
+LazyData: true
+RoxygenNote: 6.0.1
